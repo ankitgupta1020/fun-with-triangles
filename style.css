@@ -1,0 +1,209 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    background-color: #7e22ce;
+}
+
+.navigation {
+    height: 8vh;
+    background-color: #7e22ce;
+    color: white;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-style: solid;
+    border-color: white;
+
+}
+
+.navigation {
+    text-align: right;
+
+}
+
+.navigation .link {
+    color: white;
+}
+
+.navigation .link-active {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.link {
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+
+.list-non-bullet {
+    list-style: none;
+}
+
+.list-item-inline {
+    display: inline;
+    padding: 0rem 0.5rem;
+}
+
+
+.angle-input {
+    margin-bottom: 2rem;
+    width: 15vw;
+    height: 5vh;
+    border-radius: 0.5rem;
+
+}
+
+
+.question-container {
+
+    width: 90vw;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+p {
+    font-size: 1rem;
+    color: white;
+}
+
+label {
+    font-size: 1rem;
+    color: white;
+}
+
+#submit-btn {
+
+    margin-top: 4rem;
+    width: 15vw;
+    height: 7vh;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0.5rem;
+    font-size: 0.9rem;
+    border-style: solid;
+    font-weight: bold;
+}
+
+#submit-btn:hover {
+    background-color: #7e22ce;
+    border-style: solid;
+    border-color: white;
+    color: white;
+}
+
+#is-triangle-btn {
+    margin-top: 4rem;
+    width: 15vw;
+    height: 7vh;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0.5rem;
+    font-size: 0.9rem;
+    border-style: solid;
+    font-weight: bold;
+}
+
+#is-triangle-btn:hover {
+    background-color: #7e22ce;
+    border-style: solid;
+    border-color: white;
+    color: white;
+}
+
+#hypotenuse-btn {
+    margin-top: 4rem;
+    width: 20vw;
+    height: 7vh;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0.5rem;
+    font-size: 0.9rem;
+    border-style: solid;
+    font-weight: bold;
+
+}
+
+#hypotenuse-btn:hover {
+    background-color: #7e22ce;
+    border-style: solid;
+    border-color: white;
+    color: white;
+}
+
+#triangle-btn {
+    margin-top: 4rem;
+    width: 20vw;
+    height: 7vh;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 0.5rem;
+    font-size: 0.9rem;
+    border-style: solid;
+    font-weight: bold;
+}
+
+#triangle-btn:hover {
+    background-color: #7e22ce;
+    border-style: solid;
+    border-color: white;
+    color: white;
+}
+
+#output-one{
+    width: 20vw;
+    height: 6vh;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    padding-top: 1rem;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    /* text-align: left; */
+    text-align: center;
+
+}
+#output {
+    width: 30vw;
+    height: 6vh;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    padding-top: 1rem;
+    color: white;
+    border-style: solid;
+    border-color: white;
+  
+  }
+
+.side-input {
+    margin-top: 2rem;
+    width: 15vw;
+    height: 5vh;
+    border-radius: 0.5rem;
+}
+
+.angle-input {
+    margin-top: 2rem;
+    width: 15vw;
+    height: 5vh;
+    border-radius: 0.5rem;
+
+}
+
+
+.heading {
+    text-align: center;
+}
+
+.lebel {
+    align-items: center;
+}
+
+.wrapper {
+    text-align: center;
+    margin-top: 2rem;
+}
